@@ -1,3 +1,5 @@
+const address = "11 Broadway, 2nd Floor, New York, NY 10004";
+
 describe('employees', function() {
   describe('updateEmployeeWithKeyAndValue(employee, key, value)', function () {
     beforeEach(function () {
